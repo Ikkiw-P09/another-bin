@@ -1,4 +1,5 @@
 # another-bin
-A powerful! bin for Windows
+<code style="color : gold">A powerful! bin for Windows</code> 
 
-change old recycle bin to powerful bin!
+<code style="color : red">change old recycle bin to powerful bin!</code> 
+
